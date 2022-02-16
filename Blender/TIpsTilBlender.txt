@@ -1,0 +1,6 @@
+
+Metric units:
+https://blender.stackexchange.com/questions/67526/modeling-with-metric-units-cm
+
+Tryk på "n" i object mode.
+Så får jeg et flyout overlay med dimensions!
